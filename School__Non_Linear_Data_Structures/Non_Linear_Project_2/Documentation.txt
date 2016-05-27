@@ -1,0 +1,5 @@
+How to Run
+	1. Run make from the root directory (the directory that contains the makefile)
+	2. Type ./main and press enter
+	3. You will be prompted to enter the filename for the input file. (the file name i used was inputfile)
+	4. You will then be prompted for a filename for the output data.
